@@ -1,1 +1,1 @@
-# exercize
+Repo made for exercise
